@@ -1,0 +1,129 @@
+[center][table    bgcolor="#1c1e1c" border="1" style="border-color: black; border-radius: 25px; overflow: hidden; width: 100%;"][tr][td][color=#000000][/color][img]https://i.imgur.com/7bG7MXG.png[/img]
+
+[table    bgcolor="#f9f9f9" border="1" style="border-color: black; border-radius: 20px; overflow: hidden; width: 100%;"][tr][td][color=#000000][/color][font=Poppins][justify][center][table    bgcolor="#1a9b86" border="1" style="border-radius: 15px; overflow: hidden; width: 100%"][tr][td][color=#ffffff][b][size=17]ADMINISTRAÇÃO INTERPESSOAL[/size][/b][/color][/td][/tr][/table][/center][/td][/tr][/table]
+
+[center][table    bgcolor="#f9f9f9" border="1" style="border-color: black; border-radius: 20px; overflow: hidden; width: 100%;"][tr][td][color=#000000][/color][font=Poppins][justify][center][table    bgcolor="#1a9b86" border="1" style="border-radius: 15px; overflow: hidden; width: 100%"][tr][td][color=#ffffff][b][size=17]INSTRUÇÕES & POSTAGEM[/size][/b][/color][/td][/tr][/table][/center]
+
+[left][center][font=Poppins]Saudações, Conselheiro(a) [b]{USERNAME}[/b]![/center]
+
+⇝ Siga todas as instruções do script abaixo para aplicar sua aula.
+⇝ Não se esqueça de conferir se o Subtenente/Assistente+ possui a Aula de Promotor/Aula de Formação de Praças postada no RCC System, antes de prosseguir com a aula.
+⇝ Para conferir se o militar recebeu a aula, [b][url=https://www.policiarcc.com/h129-om-verificacao-de-aulas]CLIQUE AQUI[/url][/b].
+
+⇝ Antes do início da aula, [b][url=https://iform6.vercel.app/?username={USERNAME}&lesson=]CLIQUE AQUI[/url][/b] para que o formulário registre automaticamente o [b][u]horário de início de sua aula[/u][/b].
+⇝ Para conferir a sua postagem, [url=https://docs.google.com/spreadsheets/d/1K1Qg2ZsbfZqfJNtlwWs_QC9wpCpAtXdoyKBUjRYqzxE/edit?gid=1506633114#gid=1506633114][b]CLIQUE AQUI[/b].[/font][/left][/url][/justify][/td][/tr][/table][/center][/font]
+
+[center][table    bgcolor="#f9f9f9" border="1" style="border-color: black; border-radius: 20px; overflow: hidden; width: 100%;"][tr][td][color=#000000][/color][font=Poppins][center][table    bgcolor="#1a9b86" border="1" style="border-radius: 15px; overflow: hidden; width: 100%"][tr][td][color=#ffffff][b][size=17]SCRIPT[/size][/b][/color][/td][/tr][/table][/center]
+
+[left][font=Poppins]Olá, sou o(a) Conselheiro(a) [b]{USERNAME}[/b]. Seja bem-vindo(a) à Aula de Administração Interpessoal.
+Se eu sair do jogo, me aguarde 5 minutos e caso eu não retorne, volte para o batalhão.
+Antes de começarmos, gostaria de receber o conteúdo através de slides (mais prático)
+ou em modo clássico (no jogo)?
+[size=11][color=#28453a][b][Abra o link de postagem de aula e aguarde a resposta do militar.][/size][/color][/b]
+
+[spoiler="Através de slides"][size=13]Acesse o seguinte link: bit.l4/AAI-OM (troque 4 por y).
+Evite inatividade no quarto e avise-me ao terminar. Pode começar a leitura.[/size]
+[size=11][color=#28453a][b][Aguarde o(a) aluno(a) confirmar a leitura e prossiga com o script abaixo.][/size][/color][/b]
+
+[size=13]Alguma dúvida sobre o conteúdo dos slides?[/size]
+[size=11][color=#28453a][b][Aguarde a resposta do militar e prossiga com a aula.][/size][/color][/font][/b][/spoiler]
+[spoiler="Através do Modo Clássico"][size=13][font=Poppins]Anote tudo que for necessário ao longo do teste.
+Dúvidas serão respondidas ao final. Entendido?
+
+[color=#28453a][b][INTRODUÇÃO][/color][/b]
+
+A administração interpessoal está interligada a diversos aspectos; todos eles são,
+no entanto, focados na comunicação entre você e as outras pessoas. Esta aula irá
+focar no desenvolvimento da liderança e doutrinação militar do policial.
+
+Ambos aspectos são importantíssimos para o seu desenvolvimento como militar, uma vez que farão parte de toda sua carreira e estarão em constante desenvolvimento.
+
+[color=#28453a][b][LIDERANÇA][/color][/b]
+
+O conceito de liderança é extremamente amplo e, para ser dominado, é preciso que o policial entenda a essência da
+função que exerce.
+É preciso entender que "líder" ou "liderar" não se baseia somente a uma posição
+(que é uma conquista).
+
+O líder tem a função de unir os elementos do grupo, para que juntos
+possam alcançar algum objetivo maior.
+Toda essa gestão está relacionada com a motivação e instrução da
+equipe.
+
+As habilidades de um verdadeiro líder são completamente interpessoais e envolvem
+carisma, boa comunicação, inteligência e visão administrativa.
+Alguma dúvida?
+
+[size=11][color=#28453a][b][Printe as respostas fornecidas pelos alunos neste trecho.
+Caso algum caia, a aula será computada apenas mediante apresentação desta comprovação.][/size][/color][/b]
+
+[color=#28453a][b][TIPOS DE LIDERANÇA][/color][/b]
+
+Você pode definir a liderança de um policial em três tipos:
+
+Autocrática: é um tipo de liderança autoritária, na qual o líder
+impõe as suas ideias e decisões ao grupo, sem se importar com as opiniões dos
+demais.
+
+Democrática: o líder estimula a participação do grupo e orienta as tarefas. É um tipo de liderança
+participativa, em que as decisões são tomadas após debate e em conjunto.
+
+Liberal: há liberdade e total confiança no grupo. As decisões são delegadas
+e a participação do líder é limitada.
+
+[color=#28453a][b][GESTÃO DE SUBALTERNOS][/color][/b]
+
+A doutrinação está imposta na Revolução Contra o Crime desde que se é soldado,
+sendo essencial para que líderes sejam formados, fazendo com que
+o policial que entrou inapto, adquira experiência para quando for sua vez de
+liderar e instruir.
+
+O companheirismo pregado entre os militares, a rigidez com que os policiais
+são tratados e outras maneiras de militarismo são o que tornam
+um policial apto em diversos aspectos, moldando-o a ser um líder
+exemplar, sabendo transparecer rigidez e inteligência nas suas decisões.
+
+Tudo engloba uma função moral e ética para que as ações tomadas
+estejam no padrão exigido pela RCC.
+
+Alguma dúvida?
+[size=11][color=#28453a][b][Aguarde a resposta do militar e prossiga com a aula.][/font][/size][/color][/b][/size][/left][/spoiler][/td][/tr][/table]
+
+[table    bgcolor="#f9f9f9" border="1" style="border-color: black; border-radius: 20px; overflow: hidden; width: 100%;"][tr][td][color=#000000][/color][font=Poppins][justify][center][table    bgcolor="#1a9b86" border="1" style="border-radius: 15px; overflow: hidden; width: 100%"][tr][td][color=#ffffff][b][size=17]TESTE TEÓRICO[/size][/b][/color][/td][/tr][/table][/center]
+
+[font=Poppins][left]Agora, será realizado um teste teórico abordando todos os conteúdos passados ao decorrer da aula.
+Caso erre duas das cinco perguntas do teste estará reprovado(a) e precisará refazer a aula.
+[size=11][color=#28453a][b][Caso haja mais de um aluno, solicite que as respostas sejam enviadas via sussurro.][/font][/size][/color][/b]
+
+[b]1. Qual a função de um líder?[/b]
+[color=#28453a][b]R:[/b][/color] O líder tem a função de unir os elementos do grupo, para que juntos possam alcançar algum objetivo maior.
+
+[b]02. Quais os tipos de liderança?[/b]
+[color=#28453a][b]R:[/b][/color] Você pode definir a liderança de um policial em três tipos: Autocrática, Democrática e Liberal.
+
+[b]03. Qual o principal objetivo da doutrinação?[/b]
+[color=#28453a][b]R:[/b][/color]A doutrinação está imposta na Revolução Contra o Crime desde que se é soldado, sendo essencial para que líderes sejam formados, fazendo com que o policial que entrou inapto, adquira experiência para quando for sua vez de liderar e instruir.
+
+[b]04. Qual a diferença entre as lideranças Autocrática e Democrática?[/b][color=#28453a]
+[b]R:[/b][/color]Enquanto na liderança Autocrática o líder impõe um modelo autoritário, onde seus ideais e decisões são impostos ao grupo sem que haja uma preocupação com a opinião dos demais, a liderança Democrática é caracterizada por um líder que estimula a participação de todos e procura tomar todas as decisões em conjunto.
+
+[b]05. Dentre as diversas características citadas sobre um líder exemplar, cite quais são aquelas que
+são essenciais na gestão de subalternos.[/b]
+[color=#28453a][b]R:[/b][/color] Companheirismo, Rigidez e Inteligência.[/justify][/td][/tr][/table]
+
+[table    bgcolor="#f9f9f9" border="1" style="border-color: black; border-radius: 20px; overflow: hidden; width: 100%;"][tr][td][color=#000000][/color][font=Poppins][justify][center][table    bgcolor="#1a9b86" border="1" style="border-radius: 15px; overflow: hidden; width: 100%"][tr][td][color=#ffffff][b][size=17]CONCLUSÃO[/size][/b][/color][/td][/tr][/table][/center]
+
+[color=red][b]Caso o(a) aluno(a) tenha sido reprovado(a):[/b][/color]
+Infelizmente, por errar duas questões, foi reprovado(a) na aula. Não desanime, procure refazer o
+curso e conseguirá na próxima vez!
+
+[color=#246c23][b]Caso o(a) aluno(a) tenha sido aprovado(a):[/b][/color]
+Parabéns, você concluiu a Aula de Administração Interpessoal! Agora está preparado(a) para
+executar seu trabalho com excelência na instituição. Caso necessite de auxílio,
+me procure ou peça ajuda a um superior.
+
+Alguma dúvida?
+[size=11][color=#28453a][b][Aguarde a resposta do aluno e dispense-o][/justify][/size][/color][/b][/font][/left][/font][/td][/tr][/table]
+
+[font=Poppins][size=12][color=white]Criado por Slintow e SofiaBrandwolff e reformulação/design por Qox
+Todos os direitos reservados à Subcompanhia da Ordem Militar.[/center][/size][/color][/center][/font][/td][/tr][/table]
